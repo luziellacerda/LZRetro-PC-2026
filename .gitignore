@@ -1,0 +1,32 @@
+# Build outputs
+/output/
+/x86_64/
+/dl/
+/buildroot/dl/
+
+# Cache
+/.cache/
+/.ccache/
+/ccache/
+
+# Imagens e artefatos grandes
+*.img
+*.img.gz
+*.iso
+*.tar
+*.tar.gz
+*.tar.xz
+*.zip
+*.squashfs
+*.squashfs.*
+
+# Temporários
+*.log
+*.tmp
+*.bak
+*.bak-*
+*~
+
+# Git quebrado antigo / backups locais
+.git_quebrado_*/
+.git_quebrado_*
