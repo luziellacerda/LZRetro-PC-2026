@@ -55,3 +55,16 @@
 *.tmp
 *.log
 *~
+
+# LZ local build/cache
+/x86_64/
+/output/
+/dl/
+/buildroot/dl/
+/.git_quebrado_*/
+/.git_quebrado_*
+*.bak
+*.bak-*
+*.tmp
+*.log
+*~
