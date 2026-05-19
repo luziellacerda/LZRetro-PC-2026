@@ -30,3 +30,15 @@
 # Git quebrado antigo / backups locais
 .git_quebrado_*/
 .git_quebrado_*
+
+# LZ build local
+/x86_64/
+/output/
+/dl/
+/buildroot/dl/
+/.git_quebrado_*/
+/.git_quebrado_*
+*.bak
+*.bak-*
+*.tmp
+*.log
